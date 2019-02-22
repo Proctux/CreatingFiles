@@ -66,7 +66,6 @@ public class Program {
 		}
 		
 		sc.close();
-		System.out.println("Hello World!");
 	}
 
 }
